@@ -26,8 +26,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DaltonMosley&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Alt text](image.png)
+![image](image.png)
 
-![Liberapay goal progress](https://img.shields.io/liberapay/goal/:entity)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
