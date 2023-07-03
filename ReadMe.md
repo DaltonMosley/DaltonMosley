@@ -28,4 +28,6 @@
 
 ![Alt text](image.png)
 
+![Liberapay goal progress](https://img.shields.io/liberapay/goal/:entity)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
